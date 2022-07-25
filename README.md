@@ -2,7 +2,7 @@
 As part of our application process, we'd like to see what you can produce by giving you a take home assessment.
 
 # Test Specification
-Implement the dashboard design as seen on this Figma board (https://www.figma.com/file/I111OIoiDfecjpTuHRbM6M/Shuttlers-Frontend-Assesment?node-id=0%3A1).
+Implement the dashboard design as seen on this Figma board (https://www.figma.com/file/fzXDrdFJQ43222TDTND99E/Dashboard-(Community)?node-id=0%3A1).
 
 ## About the Design:
 It is a single-paged dashboard that prioritizes graph-driven metrics with a dark mode feature.
