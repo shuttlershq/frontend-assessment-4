@@ -2,15 +2,14 @@
 As part of our application process, we'd like to see what you can produce by giving you a take home assessment.
 
 # Test Specification
-Implement the dashboard design as seen on this Figma board (https://www.figma.com/file/fzXDrdFJQ43222TDTND99E/Dashboard-(Community)?node-id=0%3A1).
+Implement the dashboard design as seen on this Figma board (https://www.figma.com/file/uqOmwsA3rwIY3jgfFOxdHv/Frontend-Engineer-Assessment?node-id=0%3A1).
 
 ## About the Design:
-It is a single-paged dashboard that prioritizes graph-driven metrics with a dark mode feature.
+It is a single-paged dashboard that prioritizes graph-driven metrics.
 
 ## Basic Requirement:
 - Using dummy values for the graph x and y cordinates, the graph should be interactive and show point metrics as seen on the design
 - Circular and horizontal progress bar should work based on inputed dummy data.
-- User should be able to toggele between dark and light mode
 
 # Expectations
 You are expected to use intuition and creativity to fill in the missing blanks. We will be testing for Skill, Intuition and Creativity
